@@ -1,8 +1,10 @@
-## JLayne Media Productions
+###JLayne Media Productions
+![JLPROD](https://user-images.githubusercontent.com/83463234/116721792-b8cee280-a9ab-11eb-9686-f87d9469d7ba.jpg)
 
-You can use the [editor on GitHub](https://github.com/JLayne01/JLayneMediaProductions/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+
 
 ### Markdown
 
