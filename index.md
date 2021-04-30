@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## JLayne Media Productions
 
 You can use the [editor on GitHub](https://github.com/JLayne01/JLayneMediaProductions/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
